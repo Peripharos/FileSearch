@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020.05.29 13:22:32.441.pas,D:\Roaming\private\JAT\Dokumente\RAD Studio\Projekte\Unit1.pas=D:\Delphi2007\Projekte\Eigene Tools\FileSearch\FileSearch.Main.pas</Transaction>
+    <Transaction>2020.05.29 13:22:32.441.dfm,D:\Roaming\private\JAT\Dokumente\RAD Studio\Projekte\Unit1.dfm=D:\Delphi2007\Projekte\Eigene Tools\FileSearch\FileSearch.Main.dfm</Transaction>
+    <Transaction>2020.05.29 13:22:36.207.dproj,D:\Roaming\private\JAT\Dokumente\RAD Studio\Projekte\Project1.dproj=D:\Delphi2007\Projekte\Eigene Tools\FileSearch\FileSearch.dproj</Transaction>
+    <Transaction>2020.05.29 13:56:03.619.pas,D:\Delphi2007\Projekte\Eigene Tools\FileSearch\Unit1.pas=D:\Delphi2007\Projekte\Eigene Tools\FileSearch\FileSearch.Explorer.pas</Transaction>
+    <Transaction>2020.05.29 13:56:03.619.dfm,D:\Delphi2007\Projekte\Eigene Tools\FileSearch\Unit1.dfm=D:\Delphi2007\Projekte\Eigene Tools\FileSearch\FileSearch.Explorer.dfm</Transaction>
+    <Transaction>2020.06.03 14:35:52.521.pas,D:\Delphi2007\Projekte\Eigene Tools\FileSearch\FileSearch.Explorer.pas=</Transaction>
+    <Transaction>2020.06.03 14:35:52.521.dfm,D:\Delphi2007\Projekte\Eigene Tools\FileSearch\FileSearch.Explorer.dfm=</Transaction>
+    <Transaction>2021.06.24 11:54:45.907.pas,D:\Delphi2007\Projekte\Eigene Tools\FileSearch\Unit1.pas=D:\Delphi2007\Projekte\Eigene Tools\FileSearch\FileSearch.MyDrawGrid.pas</Transaction>
+    <Transaction>2021.06.24 15:50:15.066.pas,D:\Delphi2007\Projekte\Eigene Tools\FileSearch\FileSearch.MyDrawGrid.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
